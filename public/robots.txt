@@ -50,4 +50,4 @@ Allow: /
 User-agent: MistralAI-User
 Allow: /
 
-Sitemap: https://nicole-bradbury-38d9fbd2.zappy5.app/sitemap.xml
+Sitemap: https://example.com/sitemap.xml

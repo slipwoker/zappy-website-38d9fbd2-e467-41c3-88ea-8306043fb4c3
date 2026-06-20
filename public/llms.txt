@@ -7,41 +7,41 @@
 ## Pages
 
 ### Home
-https://nicole-bradbury-38d9fbd2.zappy5.app
+https://example.com
 Step inside Nicole Bradbury&#39;s digital fine arts center and explore a breathtaking collection of original paintings. Find your next statement piece and bring fine art home today.
 
 ### Gallery
-https://nicole-bradbury-38d9fbd2.zappy5.app/gallery
+https://example.com/gallery
 Browse an exclusive online gallery where every painting tells a story. Discover detailed artwork descriptions and find a piece that speaks directly to your soul.
 
 ### About
-https://nicole-bradbury-38d9fbd2.zappy5.app/about
+https://example.com/about
 Uncover the story, passion, and creative journey of artist Nicole Bradbury. Learn what drives her brush and how her work elevates the contemporary fine arts scene.
 
 ### Collectors & Pricing
-https://nicole-bradbury-38d9fbd2.zappy5.app/collectors-pricing
+https://example.com/collectors-pricing
 Exclusive pricing and acquisition details for serious collectors seeking investment-worthy fine art. Secure a timeless Nicole Bradbury original before it&#39;s gone forever.
 
 ### Contact
-https://nicole-bradbury-38d9fbd2.zappy5.app/contact
+https://example.com/contact
 Ready to own a custom masterpiece? Reach out for commissions, availability, and private viewings. Let&#39;s create something extraordinary together at this fine arts center.
 
 ### Thank You | Nicole Bradbury
-https://nicole-bradbury-38d9fbd2.zappy5.app/thank-you
+https://example.com/thank-you
 Nicole Bradbury - Thank You | Nicole Bradbury
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://nicole-bradbury-38d9fbd2.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://nicole-bradbury-38d9fbd2.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://nicole-bradbury-38d9fbd2.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -51,8 +51,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://nicole-bradbury-38d9fbd2.zappy5.app/contact
-- Endpoint: https://nicole-bradbury-38d9fbd2.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -82,6 +82,6 @@ Fine Arts
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://nicole-bradbury-38d9fbd2.zappy5.app/sitemap.xml
-- Robots: https://nicole-bradbury-38d9fbd2.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://nicole-bradbury-38d9fbd2.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
