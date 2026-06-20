@@ -1,0 +1,87 @@
+# Nicole Bradbury — Generative Engine Optimization Map
+
+> A professional artist seeking an online presence to showcase her paintings and artwork. The website will serve as a digital gallery featuring her work with individual painting descriptions, an about section sharing her story and background, pricing information for collectors and buyers, and contact details for inquiries and commissions.
+
+---
+
+## Pages
+
+### Home
+https://nicole-bradbury-38d9fbd2.zappy5.app
+Step inside Nicole Bradbury&#39;s digital fine arts center and explore a breathtaking collection of original paintings. Find your next statement piece and bring fine art home today.
+
+### Gallery
+https://nicole-bradbury-38d9fbd2.zappy5.app/gallery
+Browse an exclusive online gallery where every painting tells a story. Discover detailed artwork descriptions and find a piece that speaks directly to your soul.
+
+### About
+https://nicole-bradbury-38d9fbd2.zappy5.app/about
+Uncover the story, passion, and creative journey of artist Nicole Bradbury. Learn what drives her brush and how her work elevates the contemporary fine arts scene.
+
+### Collectors & Pricing
+https://nicole-bradbury-38d9fbd2.zappy5.app/collectors-pricing
+Exclusive pricing and acquisition details for serious collectors seeking investment-worthy fine art. Secure a timeless Nicole Bradbury original before it&#39;s gone forever.
+
+### Contact
+https://nicole-bradbury-38d9fbd2.zappy5.app/contact
+Ready to own a custom masterpiece? Reach out for commissions, availability, and private viewings. Let&#39;s create something extraordinary together at this fine arts center.
+
+### Thank You | Nicole Bradbury
+https://nicole-bradbury-38d9fbd2.zappy5.app/thank-you
+Nicole Bradbury - Thank You | Nicole Bradbury
+
+## Legal & Policy
+
+### Privacy Policy
+https://nicole-bradbury-38d9fbd2.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://nicole-bradbury-38d9fbd2.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://nicole-bradbury-38d9fbd2.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://nicole-bradbury-38d9fbd2.zappy5.app/contact
+- Endpoint: https://nicole-bradbury-38d9fbd2.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Nicole Bradbury
+A professional artist seeking an online presence to showcase her paintings and artwork. The website will serve as a digital gallery featuring her work with individual painting descriptions, an about section sharing her story and background, pricing information for collectors and buyers, and contact details for inquiries and commissions.
+
+## Target Audience
+- art collectors, art enthusiasts, potential buyers
+- Art Collectors
+- Art Enthusiasts
+- Interior Designers
+
+## Industry
+Fine Arts
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://nicole-bradbury-38d9fbd2.zappy5.app/sitemap.xml
+- Robots: https://nicole-bradbury-38d9fbd2.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://nicole-bradbury-38d9fbd2.zappy5.app/llms-full.txt
